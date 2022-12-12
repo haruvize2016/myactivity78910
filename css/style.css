@@ -72,7 +72,7 @@ p {
 
 
 #hero {
-    background: url(/image/hero_image.jpg) no-repeat center center/cover;
+    background: url(.../image/hero_image.jpg) no-repeat center center/cover;
     height: 600px;
 }
 #hero .hero-content {
@@ -143,7 +143,7 @@ p {
 }
 
 #testimonials {
-    background: url("/image/pexels-michał-osiński-3454270.jpg") no-repeat center center/cover;
+    background: url(".../image/pexels-michał-osiński-3454270.jpg") no-repeat center center/cover;
     height: 600px;
     overflow: hidden;
 }
